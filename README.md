@@ -6,7 +6,7 @@
  
 Notes API That's Built With Ktor to keep and organize user's notes.
 This repository contains a **Notes Api** This is an educational API.Use and run this API to learn more about API design and socket and best practices
-you must follow.That's built with Ktor to keep  and organize users's notes , That's implements Socket,Pagination,Coroutines,clean architecture,Koin,Exposed,jackson,etc... using kotlin language with ktor framework this is server side you can find usage of this API in real project here -> [AndroidNoteApp](https://github.com/adelayman1/)
+you must follow.That's built with Ktor to keep  and organize users's notes , That's implements Socket,Pagination,Coroutines,clean architecture,Koin,Exposed,jackson,etc... using kotlin language with ktor framework this is server side you can find usage of this API in real project here -> [AndroidNoteApp](https://github.com/adelayman1/ComposeNotesAppKtor-Client) and here [AndroidNoteApp](https://github.com/adelayman1/ComposeNotesAppRetrofit) 
 
 ![](https://user-images.githubusercontent.com/85571327/206309085-d497f390-4670-4b65-8c76-d4f078ae16f8.png)
 
